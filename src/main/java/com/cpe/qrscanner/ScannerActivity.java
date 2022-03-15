@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.budiyev.android.codescanner.CodeScanner;
 import com.budiyev.android.codescanner.CodeScannerView;
 import com.budiyev.android.codescanner.DecodeCallback;
-import com.example.qrscanner.R;
+import com.cpe.qrscanner.R;
 import com.google.zxing.Result;
 
 public class ScannerActivity extends AppCompatActivity {
